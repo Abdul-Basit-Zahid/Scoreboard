@@ -1,0 +1,62 @@
+@font-face {
+    src: url("Epyval.ttf");
+        fint-family:digital
+    
+}
+
+.theme{
+    background: #001933;
+}
+.team-sides{
+    display:flex;
+    justify-content:space-around;
+    color: white;
+    font-size: 25px;
+    margin-bottom: -35px;    
+}
+
+.team-scores{
+    display:flex;
+    justify-content:space-around;
+        
+}
+
+.HOME-score{
+    border: 10px solid black;
+    padding:50px ;
+    background: black;
+    color: red;
+    width:70px;
+    text-align: center;
+    border-radius: 10px;
+    font-family: digital;
+    font-size:50px;
+}
+.HOME-adds{
+    display:flex;
+    justify-content:space-around;    
+}
+
+.GUEST-score{
+    border: 10px solid black;
+    padding:50px ;
+    background: black;
+    color: red;
+    width:70px;
+    text-align: center;
+    border-radius: 10px;
+    font-family:digital;
+    font-size:50px;
+}
+.button{
+    background: #001933;
+    color:#e8e9f3;
+    font-family: digital;
+    padding:10px;
+    margin-right:7px;
+    border: 2px solid white;
+    border-radius: 5px
+}
+
+
+
